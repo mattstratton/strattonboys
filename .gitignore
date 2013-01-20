@@ -15,6 +15,7 @@
 /*
 !.gitignore
 !wp-content/
+!README.md
 .htaccess
 .DS_Store
 
@@ -34,4 +35,4 @@ wp-content/plugins/*
 # specify (see the commented-out example for a hint on how to do this.)
 wp-content/themes/*
 # !wp-content/themes/itp-theme/
-!wp-content/themes/lbl-theme/
+!wp-content/themes/strattonboys/
